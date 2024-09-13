@@ -24,7 +24,7 @@ I'm a Frontend developer (ReactJS developer)
 
 ## Github Stats  
 <div style="width:300px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altaftech&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altaftech&hide_border=true&layout=compact" align="left" style="width: 50%" />
 </div>
 <br/>  
 
