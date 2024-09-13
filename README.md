@@ -4,8 +4,19 @@
 I'm a Frontend developer (ReactJS developer) 
 <br/>  
 
-<a href="https://linkedin.com/in/altaf-ali-24a18b220" target="blank"><img align="center" src="https://camo.githubusercontent.com/05a93bdb893b4febd59cb728f7284c9f3cd50528eca63bdc6d57627fe244ca5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height="30" width="100" /></a>
-<br/>
+## Connect with me  
+<a href="https://github.com/altaftech" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/altaf-ali-24a18b220" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/im.altaf.khan" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+  
+
+<br/>  
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />   
