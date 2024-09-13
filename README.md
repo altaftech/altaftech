@@ -31,10 +31,9 @@ I'm a Frontend developer (ReactJS developer)
 </td></tr></table>  
 
 <br/>  
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=altaftech&&style=flat-square)  
 
 <br />
-
-----
 
 
