@@ -15,8 +15,8 @@ I'm a Frontend developer (ReactJS developer)
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
-
 <br/>  
+
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />   
