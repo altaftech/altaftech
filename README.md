@@ -26,9 +26,9 @@ I'm a Frontend developer (ReactJS developer)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altaftech&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 <br/>  
-
+<div style="width:300px">
 ![Profile views counter](https://komarev.com/ghpvc/?username=altaftech&&style=flat-square)  
-
+</div>
 <br />
 
 
