@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Altaf Ali</h1>
 <h3 align="center">Glad to see you here!</h3>
-
+<h2 align="center">I'm a Frontend developer (ReactJS developer)</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altaftech&label=Profile%20views&color=0e75b6&style=flat" alt="altaftech" /> </p>
 
 <h3 align="left">Connect with me:</h3>
