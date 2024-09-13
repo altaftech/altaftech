@@ -24,7 +24,7 @@ I'm a Frontend developer (ReactJS developer)
 
 ## Github Stats  
 
-<div width="25%">
+<div width="10%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altaftech&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </div>
 
