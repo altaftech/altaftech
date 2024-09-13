@@ -1,15 +1,14 @@
 ## Hey 👋, I'm Altaf Ali!  
   
-
-<h3 align="left">Connect with me: <a href="https://linkedin.com/in/altaf-ali-24a18b220" target="blank"><img align="center" src="https://camo.githubusercontent.com/05a93bdb893b4febd59cb728f7284c9f3cd50528eca63bdc6d57627fe244ca5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height="30" width="100" /></a></h3>
-  
 ### Glad to see you here!  
 I'm a Frontend developer (ReactJS developer) 
 <br/>  
 
+<h3 align="left">Connect with me: <a href="https://linkedin.com/in/altaf-ali-24a18b220" target="blank"><img align="center" src="https://camo.githubusercontent.com/05a93bdb893b4febd59cb728f7284c9f3cd50528eca63bdc6d57627fe244ca5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height="30" width="100" /></a></h3>
+
 ## Languages and Tools  
 <div align="center">  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />  
