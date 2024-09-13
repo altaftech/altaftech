@@ -17,7 +17,6 @@ I'm a Frontend developer (ReactJS developer)
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
 </div>  
@@ -27,7 +26,7 @@ I'm a Frontend developer (ReactJS developer)
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altaftech&hide_border=true&layout=compact" align="left" style="width: 100%; height="300px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altaftech&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
